@@ -1,0 +1,22 @@
+/* Estilo para o corpo da página */
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo para o título principal */
+h1 {
+    color: #0073e6;
+    font-size: 3em;
+    margin-top: 20vh;
+}
+
+/* Estilo para o parágrafo */
+p {
+    color: #555;
+    font-size: 1.2em;
+}
